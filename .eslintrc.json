@@ -4,7 +4,7 @@
     "browser": true
   },
   "settings": {},
-  "extends": ["airbnb-base", "prettier"],
+  "extends": ["airbnb-base"],
   "plugins": [],
   "globals": {
     "Atomics": "readonly",
@@ -23,7 +23,6 @@
       {
         "ignoreComments": true
       }
-    ],
-    "prettier/prettier": "error"
+    ]
   }
 }
