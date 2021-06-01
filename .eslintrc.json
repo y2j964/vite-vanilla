@@ -14,16 +14,16 @@
   "parserOptions": {
     "ecmaVersion": 6,
     "sourceType": "module",
-    "ecmaFeatures": {},
-    "rules": {
-      "indent": [
-        "error",
-        2,
-        {
-          "ignoreComments": true
-        }
-      ],
-      "prettier/prettier": "error"
-    }
+    "ecmaFeatures": {}
+  },
+  "rules": {
+    "indent": [
+      "error",
+      2,
+      {
+        "ignoreComments": true
+      }
+    ],
+    "prettier/prettier": "error"
   }
 }
